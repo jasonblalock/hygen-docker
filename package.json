@@ -1,0 +1,15 @@
+
+{
+  "name": "hygen-docker",
+  "version": "0.1.0",
+  "description": "A hygen package for Docker",
+  "keywords": [
+    "hygen",
+    "generator",
+    "boilerplate",
+    "docker"
+  ],
+  "main": "index.js",
+  "repository": "https://github.com/jasonblalock/hygen-docker",
+  "license": "MIT"
+}
