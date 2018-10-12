@@ -1,5 +1,7 @@
 ---
 to: entrypoint.sh
+---
+---
 sh: cd <%= cwd %> && chmod +x entrypoint.sh
 ---
 #!/bin/sh
