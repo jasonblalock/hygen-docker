@@ -4,7 +4,7 @@ to: docker-compose.yml
 version: '3.7'
 
 services:
-  client:
+  <%= locals.serviceName ? serviceName : 'client' %>:
     image: dev.node:8
     build:
       context: .
